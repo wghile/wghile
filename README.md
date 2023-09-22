@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋🏽, I'm Wentana!
+
+I have a background in chemical engineering 👩🏽‍🔬 where I worked in QC and Process Dev for a few years. Now, I am an aspiring full stack software engineer with an aptitude for problem solving and delivering quality products to clients!
+
+- 🔭 I’m currently working on completing my Per Scholas software engineering training 📚👩🏽‍💻
+- 🌱 I’m currently learning MongoDB, Node JS, Express and Python
+- 📫 How to reach me: weghile@gmail.com
 
 <!--
 **wghile/wghile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
