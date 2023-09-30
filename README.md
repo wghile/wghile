@@ -5,6 +5,7 @@ I have a background in chemical engineering 👩🏽‍🔬 where I worked in QC
 - 🔭 I’m currently working on completing my Per Scholas software engineering training 📚👩🏽‍💻
 - 🌱 I’m currently learning MongoDB, Mongoose, Node JS, Express
 - 📫 How to reach me: weghile@gmail.com
+- ✨ Portfolio: https://wghile.netlify.app/
 
 <!--
 **wghile/wghile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
